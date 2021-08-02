@@ -1300,8 +1300,7 @@ readers do not read off random characters that represent icons */
   content: "\f5eb"; }
 
 .fa-discord:before {
-  content: "\f392";
-  color: #7289DA}
+  content: "\f392"; }
 
 .fa-discourse:before {
   content: "\f393"; }
@@ -4130,8 +4129,7 @@ readers do not read off random characters that represent icons */
   content: "\f1e8"; }
 
 .fa-twitter:before {
-  content: "\f099";
-  color: #1DA1F2}
+  content: "\f099"; }
 
 .fa-twitter-square:before {
   content: "\f081"; }
